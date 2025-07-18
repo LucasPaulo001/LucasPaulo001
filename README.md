@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,nodejs,npm,c,py,figma,bash,express,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,nodejs,npm,c,py,figma,bash,express,mongodb,postman,redux" />
   </a>
 </p>
 
@@ -26,9 +26,19 @@
 ![Profile views](https://komarev.com/ghpvc/?username=LucasPaulo001&color=00bfbf)
 ![GitHub followers](https://img.shields.io/github/followers/LucasPaulo001?label=Seguidores&style=social)
 
+
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300px" alt="Daft Punk Octocat" />
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
 </p>
 
+<br>
+<p align="center">
+<a href="www.linkedin.com/in/lucaspaulo0" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/_lucaspaul0_/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"
+  alt="Instagram"/</a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
