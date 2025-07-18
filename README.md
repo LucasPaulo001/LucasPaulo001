@@ -33,7 +33,7 @@
 
 <br>
 <p align="center">
-<a href="www.linkedin.com/in/lucaspaulo0" title="LinkedIn">
+<a href="https://www.linkedin.com/in/lucaspaulo0" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/_lucaspaul0_/" title="Instagram">
