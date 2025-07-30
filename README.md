@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,nodejs,npm,c,py,figma,bash,express,mongodb,postman,redux" />
+    <img src="https://skillicons.dev/icons?i=git,react,js,html,css,nodejs,npm,c,py,figma,bash,express,mongodb,postman,redux,typescript,vercel" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px">
 </p>
 
 <br>
