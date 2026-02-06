@@ -2,6 +2,8 @@
 
 ---
 
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ![Sobre mim](https://img.shields.io/badge/Sobre%20mim-242424?style=for-the-badge&logo=github&logoColor=white)
 
 Olá! Sou Lucas, estudante de Análise e Desenvolvimento de Sistemas e apaixonado por **desenvolvimento web**, especialmente no **backend**.
