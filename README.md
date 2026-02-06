@@ -2,7 +2,9 @@
 
 ---
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](https://raw.githubusercontent.com/LucasPaulo001/LucasPaulo001/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+
 
 ![Sobre mim](https://img.shields.io/badge/Sobre%20mim-242424?style=for-the-badge&logo=github&logoColor=white)
 
