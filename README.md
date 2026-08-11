@@ -47,7 +47,7 @@ Tenho focado meus estudos em tecnologias como ``Node.js``, ``Express``, ``MongoD
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"
   alt="Instagram"/
 </a>
-  <a href="https://www.youtube.com/@lucaspaulo6636" target="_blank">
+  <a href="https://www.youtube.com/@DevDosBugs" target="_blank">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
 </p>
